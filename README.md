@@ -1,1 +1,1 @@
-# alanhc | HUNG-CHUN, TSENG
+# alanhc
