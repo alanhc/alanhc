@@ -1,6 +1,6 @@
 # alanhc
 ### Hi there 👋
-
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhc&layout=compact)
 <!--
 **alanhc/alanhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
