@@ -2,11 +2,7 @@
 # README 中文
 
 
-完成:heavy_check_mark:
-
-施工中 :construction:
-
-待修 :warning:
+完成:heavy_check_mark: | 施工中 :construction: | 待修 :warning:
 
 
 ## 專案列表
