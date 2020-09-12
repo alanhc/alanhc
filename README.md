@@ -17,7 +17,6 @@
 
 [專案列表]:https://github.com/alanhc/alanhc/blob/master/README-zh.md
 
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhc&layout=compact&hide=Jupyter%20Notebook)
 
 
 <!--
