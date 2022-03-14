@@ -65,7 +65,7 @@
 |:heavy_check_mark:| [多人機器學習電子鼓對戰] |socket、NodeJS| 
 |:heavy_check_mark:| [口罩地圖視覺化] | 爬蟲、地圖應用、MySQL |
 |:heavy_check_mark:| [Cofact Chrome Extension] |  | 
-|:construction:| [智慧盆栽系統] |IoT| 
+|:heavy_check_mark:| [智慧盆栽系統] |IoT| 
 |:heavy_check_mark:| [Telegram 私有雲機器人] | Container |
 |:heavy_check_mark:| [社課健康申明書] | Vue、OpenCV | 
 |:heavy_check_mark:| [Covid-19每日最新資訊] | 爬蟲、bootstrap | 
