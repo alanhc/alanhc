@@ -21,4 +21,4 @@
 ## 專案
 請參考:point_right:[[專案列表]]
 
-[專案列表]:https://github.com/alanhc/alanhc/blob/master/README-zh.md
+[專案列表]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md

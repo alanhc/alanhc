@@ -1,25 +1,10 @@
+:construction:  本頁面正在施工中 :construction: 
+僅紀錄至大四上專案，以下按照類別分類
 ## 專案列表
-
-### 課堂專案
-- 電腦視覺 
-    - [多種電腦視覺演算法](https://github.com/alanhc/NTU_CV_fall)
-- 金融科技導論
-    - [玉山人工智慧公開挑戰賽2021冬季賽 -信用卡消費類別推薦(82/317) Team:FinTechFighting](https://tbrain.trendmicro.com.tw/Competitions/Details/18)
-    - [銀行服務使用預測(Kaggle競賽、排名31/133)](https://github.com/alanhc/fintech-hw1)
-- 虛擬人與遙現
-    - [Meta-Mars(Unity Cluster SDK)](https://github.com/alanhc/meta-mars)
-- 圖形識別
-    - [多種機器學習演算法實作](https://github.com/alanhc/pattern-recognition)
-- 類神經與深度學習
-    - [Final - 植物病理學挑戰]
-    - [sequence to sequence的翻譯等應用]
-    - [人臉辨識]
-
-
 
 | 狀態 |內容 |使用技術|
 | ----------------- | -------------- | -------------- |
-|:heavy_check_mark:| [Final - 植物病理學挑戰] |EfficientNet、Transfer Learning| 
+|:heavy_check_mark:| [植物病理學挑戰] |EfficientNet、Transfer Learning| 
 |:heavy_check_mark:| [sequence to sequence的翻譯等應用] | RNN、LSTM |
 |:heavy_check_mark:| [人臉辨識] | 臉嵌入、VGGFace | 
 |:heavy_check_mark:| [Intel風景圖片挑戰] | CNN、解釋模型 | 
@@ -33,7 +18,7 @@
 [小栽的辨識]:https://github.com/alanhc/MLclass
 [智慧型推薦貨架(MakeNTU比賽專案)]:https://github.com/alanhc/NTU-Hackathon
 [PDF影像轉文字]:https://github.com/alanhc/ocr-pdf-application
-[Final - 植物病理學挑戰]:https://github.com/alanhc/DLclass/tree/master/week-18
+[植物病理學挑戰]:https://github.com/alanhc/DLclass/tree/master/week-18
 [Intel風景圖片挑戰]:https://github.com/alanhc/DLclass/blob/master/README.md
 [糖尿病資料集]:https://github.com/alanhc/DLclass/tree/master/week-4
 [預測月銷售額]:https://github.com/alanhc/DLclass/blob/master/README.md
@@ -56,7 +41,7 @@
 [多人機器學習電子鼓對戰]:https://github.com/alanhc/drum.io
 [空氣品質預測]:https://github.com/alanhc/MMclass/tree/master/midterm_project
 [國旗與宗教]:https://github.com/alanhc/MMclass/tree/master/final_project
-完成:heavy_check_mark: | 施工中 :construction: | 待修 :warning:
+
 ### 媒體應用
 | 狀態 |內容 |使用技術|
 | ----------------- | -------------- | -------------- |
