@@ -1,6 +1,10 @@
 
 # README 中文
 
+## 技能
+- Python(精熟)、C/C++(中階)、JavaScript(中階)、Java(中階)
+- Tensorflow、OpenCV、OpenGL、NodeJS、
+
 
 完成:heavy_check_mark: | 施工中 :construction: | 待修 :warning:
 
