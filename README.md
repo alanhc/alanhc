@@ -17,7 +17,7 @@
 
 [NASA Hackathon 2019]:https://2019.spaceappschallenge.org/challenges/earths-oceans/rising-water/teams/athena-mark-iii/project
 [NASA Hackathon 2018]:https://2018.spaceappschallenge.org/challenges/universe-beauty-and-wonder/remix-golden-record/teams/athena/project
-## Projects
+## Side Projects
 :point_right:[[Projects]]
 
-[Side Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
+[Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
