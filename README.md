@@ -5,7 +5,7 @@
 - Python(精熟)、C/C++(中階)、JavaScript(中階)、Java(中階)
 - Tensorflow、OpenCV、OpenGL、NodeJS、Flask
 ## Couses
-- 2022 - spring (Multimedia Security, Digital Visual Effects, Decentralized Applications Design and Practice)
+- 2022-spring (Multimedia Security, Digital Visual Effects, Decentralized Applications Design and Practice)
 - 2021-fall (Computer Vision, Introduction to FinTech, Virtual Human and Telepresence, Digital Sound Art and Creation)
 
 ## 筆記列表
