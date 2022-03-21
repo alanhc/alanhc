@@ -20,4 +20,4 @@
 ## Projects
 :point_right:[[Projects]]
 
-[Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
+[Side Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
