@@ -21,3 +21,5 @@
 :point_right:[[Projects]]
 
 [Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanhc&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanhc&theme=default)
