@@ -21,5 +21,6 @@
 :point_right:[[Projects]]
 
 [Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanhc&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alanhc&theme=default)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhc&hide=jupyter%20notebook,html,c%23,shaderlab,processing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
