@@ -23,4 +23,4 @@
 [Projects]:https://github.com/alanhc/alanhc/blob/master/README-zh-back.md
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhc&hide=jupyter%20notebook,html,c%23,shaderlab,processing&layout=compact)](https://github.com/alanhc/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanhc&hide=jupyter%20notebook,html,c%23,shaderlab,processing&layout=compact)
