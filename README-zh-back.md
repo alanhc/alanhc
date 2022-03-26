@@ -2,6 +2,9 @@
 僅紀錄至大四上專案，以下按照類別分類
 ## 專案列表
 
+<iframe src="https://ghbtns.com/github-btn.html?user=alanhc&repo=alanhc&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
+
 | 狀態 |內容 |使用技術|
 | ----------------- | -------------- | -------------- |
 |:heavy_check_mark:| [植物病理學挑戰] |EfficientNet、Transfer Learning| 
