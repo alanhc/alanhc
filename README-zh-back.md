@@ -1,10 +1,11 @@
 :construction:  本頁面正在施工中 :construction: 
 僅紀錄至大四上專案，以下按照類別分類
-## 專案列表
+## Side Projects
+| :star: | :link: | :rocket: |
+| ----------------- | -------------- | -------------- |
+[![GitHub stars](https://img.shields.io/github/stars/mcuosc/MCU-up?style=social)](https://github.com/mcuosc/MCU-up/stargazers/) |[MCU-up - course rating website](https://github.com/mcuosc/MCU-up) | NodeJS, Express, MongoDB |
 
-<iframe src="https://ghbtns.com/github-btn.html?user=alanhc&repo=alanhc&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
-
+## Course Projects
 | 狀態 |內容 |使用技術|
 | ----------------- | -------------- | -------------- |
 |:heavy_check_mark:| [植物病理學挑戰] |EfficientNet、Transfer Learning| 
