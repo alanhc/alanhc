@@ -1,1 +1,1 @@
-:heart: Blockchain
+:heart: Blockchain, Open Source
