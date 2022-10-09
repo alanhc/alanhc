@@ -3,4 +3,4 @@
 
 > Bad programmers worry about the code. Good programmers worry about data structures and their relationships. - Linus Torvalds
 
-> Do the right thing, even when it’s not easy.
+> You're never wrong to do the right thing - Mark Twain
