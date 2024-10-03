@@ -28,4 +28,4 @@
 ### 🧑🏻‍💻 Contribution
 - Blockcerts: open standard for creating, issuing, viewing, and verifying blockchain-based certificates.<br/>
 
-My profile image is came from ZUTOMAYO’s [Time Left](https://youtu.be/6OC92oxs4gA).
+My profile image is from ZUTOMAYO’s [Time Left](https://youtu.be/6OC92oxs4gA).
