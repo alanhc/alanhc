@@ -13,8 +13,7 @@
 🙌🏻 Contributing to open-source projects that seens cool.<br/>
 
 ### 🎯 My goals:
-🌟 To develop software that makes a difference.<br/>
-🌐 To connect and collaborate with fellow developers and tech enthusiasts.<br/>
+🧑🏻‍🔬 Become a skilled Computer Scientist.
 
 ### 📫 Get in touch:
 📧 Email me at alan.tseng.cs@gmail.com<br/>
@@ -26,3 +25,5 @@
 
 ### 🧑🏻‍💻 Contribution
 - Blockcerts: open standard for creating, issuing, viewing, and verifying blockchain-based certificates.<br/>
+
+My profile image is came from ZUTOMAYO’s Time Left.
