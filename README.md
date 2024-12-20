@@ -3,7 +3,7 @@
 ### 🎓 About me:
 
 🌍 Based in Taiwan.<br/>
-🧑🏻‍💻 Currently a Server Engineer at Pegatron.<br/>
+🧑🏻‍💻 Currently a BMC Engineer at Wiwynn, ex - Server Software Engineer at Pegatron.<br/>
 🎓 MSCS graduate from National Taiwan University.<br/>
 💻 Passionate Software/Firmware Developer focused on large-scale system design and administration.<br/>
 
