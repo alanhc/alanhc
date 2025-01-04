@@ -9,7 +9,7 @@
 
 ### 🌱 What I'm up to:
 
-📖 Constantly learning and improving my skills in Cloud and System Administration.<br/>
+📖 Constantly learning and improving my skills in Server and Data Center.<br/>
 🙌🏻 Contributing to open-source projects that seens cool.<br/>
 
 ### 🎯 My goals:
