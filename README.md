@@ -3,7 +3,7 @@
 ### 🎓 About me:
 
 🌍 Based in Taiwan.<br/>
-🧑🏻‍💻 Currently a BMC Engineer at [Wiwynn](https://www.wiwynn.com/), ex - Server Software Engineer at [Pegatron](https://svr.pegatroncorp.com/). and Software Engineer at [LINE](https://www.line.me/)<br/>
+🧑🏻‍💻 Currently a Firmware Engineer (BMC) at [Wiwynn](https://www.wiwynn.com/), ex - Server Software Engineer at [Pegatron](https://svr.pegatroncorp.com/). and Software Engineer at [LINE](https://www.line.me/)<br/>
 🎓 MSCS graduate from National Taiwan University.<br/>
 💻 Passionate Software/Firmware Developer focused on large-scale system design and administration.<br/>
 
