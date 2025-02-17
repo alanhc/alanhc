@@ -13,7 +13,7 @@
 🙌🏻 Contributing to open-source projects that seens cool.<br/>
 
 ### 🎯 My goals:
-🧑🏻‍🔬 Become a skilled Computer Scientist.
+🧑🏻‍🔬 Become a skilled Embedded Software Engineer.
 
 ### 📫 Get in touch:
 📧 Email me at alan.tseng.cs@gmail.com<br/>
