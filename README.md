@@ -26,6 +26,7 @@
 > "You're never wrong to do the right thing." - Mark Twain
 
 ### 🧑🏻‍💻 Contribution
+- nuta/operating-system-in-1000-lines: learn how to write a minimum os can be run on RISC-V hardware in 1000 lines.<br/>
 - Blockcerts: open standard for creating, issuing, viewing, and verifying blockchain-based certificates.<br/>
 
 My profile image is from ZUTOMAYO’s [Time Left](https://youtu.be/6OC92oxs4gA).
